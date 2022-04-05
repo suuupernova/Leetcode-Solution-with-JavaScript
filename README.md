@@ -3,6 +3,6 @@ Record my leetcode solution with javascript
 |  #   | Title  |Solution|Difficulty|Explaination|
 |  ----  | ----  |----|----|----|
 | 100  | Same Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/100.%20Same%20Tree)|easy||
-| 101  | Symmetric Tree |[JavaScript]https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/101.%20Symmetric%20Tree) |easy||
-| 111  | Minimum Depth |[JavaScript]https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/111.%20Minimum%20Depth%20of%20Binary%20Tree |easy||
+| 101  | Symmetric Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/101.%20Symmetric%20Tree) |easy||
+| 111  | Minimum Depth |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/111.%20Minimum%20Depth%20of%20Binary%20Tree |easy||
 | 572  | Subtree of Another Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/572.%20Subtree%20of%20Another%20Tree)|easy||
