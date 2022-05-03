@@ -5,7 +5,7 @@ Record my leetcode solution with javascript
 | 69  | Sqrt(x) |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Dichotomy/69.%20Sqrt(x).js)|easy||
 | 100  | Same Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/100.%20Same%20Tree.js)|easy||
 | 101  | Symmetric Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/101.%20Symmetric%20Tree.js) |easy||
-| 111  | Minimum Depth |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/111.%20Minimum%20Depth%20of%20Binary%20Tree .js)|easy||
+| 111  | Minimum Depth |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/111.%20Minimum%20Depth%20of%20Binary%20Tree.js)|easy||
 | 141  | Linked List Cycle |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/141.%20Linked%20List%20Cycle.js )|easy||
 | 404  | Sum of Left Leaves |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/404.%20Sum%20of%20Left%20Leaves.js)|easy||
 | 509  | Fibonacci Number |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/DP/509.%20Fibonacci%20Number.js)|easy||
