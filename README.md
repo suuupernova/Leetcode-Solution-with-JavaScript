@@ -2,8 +2,7 @@
 Record my leetcode solution with javascript
 |  #   | Title  |Solution|Difficulty|Explaination|
 |  ----  | ----  |----|----|----|
-| 20  | Valid Parentheses |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/20.%20Valid%20Parentheses.js
-)|easy||
+| 20  | Valid Parentheses |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/20.%20Valid%20Parentheses.js)|easy||
 | 69  | Sqrt(x) |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Dichotomy/69.%20Sqrt(x).js)|easy||
 | 100  | Same Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/100.%20Same%20Tree.js)|easy||
 | 101  | Symmetric Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/101.%20Symmetric%20Tree.js) |easy||
