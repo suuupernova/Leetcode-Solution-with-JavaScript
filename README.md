@@ -14,6 +14,7 @@ Record my leetcode solution with javascript
 | 141  | Linked List Cycle |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/141.%20Linked%20List%20Cycle.js )|easy||
 | 155  | Min Stack |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/155.%20Min%20Stack.js)|easy||
 | 199  | Binary Tree Right Side View |[JavaScript]( https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Queue/199.%20Binary%20Tree%20Right%20Side%20View.js)|medium||
+| 232 | Implement Queue using Stacks |[JavaScript]( https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/232.%20Implement%20Queue%20using%20Stacks.js)|easy||
 | 404  | Sum of Left Leaves |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/404.%20Sum%20of%20Left%20Leaves.js)|easy||
 | 509  | Fibonacci Number |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/DP/509.%20Fibonacci%20Number.js)|easy||
 | 572  | Subtree of Another Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/572.%20Subtree%20of%20Another%20Tree.js)|easy||
