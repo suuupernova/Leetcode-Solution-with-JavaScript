@@ -3,6 +3,7 @@ Record my leetcode solution with javascript
 |  #   | Title  |Solution|Difficulty|Explaination|
 |  ----  | ----  |----|----|----|
 | 20  | Valid Parentheses |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/20.%20Valid%20Parentheses.js)|easy||
+| 21  | Merge Two Sorted Lists |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/21.%20Merge%20Two%20Sorted%20Lists.js)|easy||
 | 32  | Longest Valid Parentheses |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/32.%20Longest%20Valid%20Parentheses.js)|hard||
 | 69  | Sqrt(x) |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Dichotomy/69.%20Sqrt(x).js)|easy||
 | 94  | Binary Tree Inorder Traversal |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/94.%20Binary%20Tree%20Inorder%20Traversal.js)|easy||
