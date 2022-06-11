@@ -15,6 +15,7 @@ Record my leetcode solution with javascript
 | 111  | Minimum Depth |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/111.%20Minimum%20Depth%20of%20Binary%20Tree.js)|easy||
 | 141  | Linked List Cycle |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/141.%20Linked%20List%20Cycle.js )|easy||
 | 155  | Min Stack |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/155.%20Min%20Stack.js)|easy||
+| 160  | Intersection of Two Linked Lists |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/tree/main/Solution/Link%20List)|easy||
 | 199  | Binary Tree Right Side View |[JavaScript]( https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Queue/199.%20Binary%20Tree%20Right%20Side%20View.js)|medium||
 | 232 | Implement Queue using Stacks |[JavaScript]( https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/232.%20Implement%20Queue%20using%20Stacks.js)|easy||
 | 404  | Sum of Left Leaves |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/404.%20Sum%20of%20Left%20Leaves.js)|easy||
