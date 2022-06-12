@@ -22,6 +22,7 @@ Record my leetcode solution with javascript
 | 232 | Implement Queue using Stacks |[JavaScript]( https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/232.%20Implement%20Queue%20using%20Stacks.js)|easy||
 | 404  | Sum of Left Leaves |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/404.%20Sum%20of%20Left%20Leaves.js)|easy||
 | 509  | Fibonacci Number |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/DP/509.%20Fibonacci%20Number.js)|easy||
+| 538  | Convert BST to Greater Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/538.%20Convert%20BST%20to%20Greater%20Tree.js)|medium||
 | 543  | Diameter of Binary Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/543.%20Diameter%20of%20Binary%20Tree.js)|easy||
 | 572  | Subtree of Another Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/572.%20Subtree%20of%20Another%20Tree.js)|easy||
 | 671  | Second Minimum Node In a Binary Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.js)|easy||
