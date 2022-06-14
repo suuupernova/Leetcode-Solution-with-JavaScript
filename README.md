@@ -3,6 +3,7 @@ Record my leetcode solution with javascript
 |  #   | Title  |Solution|Difficulty|Explaination|
 |  ----  | ----  |----|----|----|
 | 2  | Add Two Numbers |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/2.%20Add%20Two%20Numbers.js)|easy||
+| 3  | Longest Substring Without Repeating Characters |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/3.%20Longest%20Substring%20Without%20Repeating%20Characters.js)|medium||
 | 20  | Valid Parentheses |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/20.%20Valid%20Parentheses.js)|easy||
 | 21  | Merge Two Sorted Lists |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/21.%20Merge%20Two%20Sorted%20Lists.js)|easy||
 | 25  | Reverse Nodes in k-Group |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/25.%20Reverse%20Nodes%20in%20k-Group.js)|hard||
