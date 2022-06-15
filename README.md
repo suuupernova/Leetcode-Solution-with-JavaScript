@@ -2,6 +2,7 @@
 Record my leetcode solution with javascript
 |  #   | Title  |Solution|Difficulty|Explaination|
 |  ----  | ----  |----|----|----|
+| 1  | Two Sum |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/1.%20Two%20Sum.js)|easy||
 | 2  | Add Two Numbers |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/2.%20Add%20Two%20Numbers.js)|easy||
 | 3  | Longest Substring Without Repeating Characters |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/3.%20Longest%20Substring%20Without%20Repeating%20Characters.js)|medium||
 | 20  | Valid Parentheses |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/20.%20Valid%20Parentheses.js)|easy||
