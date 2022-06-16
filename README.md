@@ -23,6 +23,7 @@ Record my leetcode solution with javascript
 | 160  | Intersection of Two Linked Lists |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/160.%20Intersection%20of%20Two%20Linked%20Lists.js)|easy||
 | 199  | Binary Tree Right Side View |[JavaScript]( https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Queue/199.%20Binary%20Tree%20Right%20Side%20View.js)|medium||
 | 232 | Implement Queue using Stacks |[JavaScript]( https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/232.%20Implement%20Queue%20using%20Stacks.js)|easy||
+| 349 | Intersection of Two Arrays |[JavaScript]( https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/349.%20Intersection%20of%20Two%20Arrays.js)|easy||
 | 404  | Sum of Left Leaves |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/404.%20Sum%20of%20Left%20Leaves.js)|easy||
 | 509  | Fibonacci Number |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/DP/509.%20Fibonacci%20Number.js)|easy||
 | 538  | Convert BST to Greater Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/538.%20Convert%20BST%20to%20Greater%20Tree.js)|medium||
