@@ -9,6 +9,7 @@ Record my leetcode solution with javascript
 | 21  | Merge Two Sorted Lists |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/21.%20Merge%20Two%20Sorted%20Lists.js)|easy||
 | 25  | Reverse Nodes in k-Group |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/25.%20Reverse%20Nodes%20in%20k-Group.js)|hard||
 | 32  | Longest Valid Parentheses |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/32.%20Longest%20Valid%20Parentheses.js)|hard||
+| 53  | Maximum Subarray |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/DP/53.%20Maximum%20Subarray.js)|easy||
 | 69  | Sqrt(x) |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Dichotomy/69.%20Sqrt(x).js)|easy||
 | 88  | Merge Sorted Array |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/88.%20Merge%20Sorted%20Array.js)|easy||
 | 94  | Binary Tree Inorder Traversal |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/94.%20Binary%20Tree%20Inorder%20Traversal.js)|easy||
