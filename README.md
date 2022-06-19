@@ -20,6 +20,7 @@ Record my leetcode solution with javascript
 | 103  | Binary Tree Zigzag Level Order Traversal |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Queue/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.js) |medium||
 | 104  | Maximum Depth of Binary Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree.js) |easy||
 | 111  | Minimum Depth |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/111.%20Minimum%20Depth%20of%20Binary%20Tree.js)|easy||
+| 121  | Best Time to Buy and Sell Stock |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)|easy||
 | 136  | Single Number |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Bitwise%20Operation/136.%20Single%20Number.js)|easy||
 | 141  | Linked List Cycle |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/141.%20Linked%20List%20Cycle.js )|easy||
 | 155  | Min Stack |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/155.%20Min%20Stack.js)|easy||
