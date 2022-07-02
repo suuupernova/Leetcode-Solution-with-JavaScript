@@ -36,6 +36,7 @@ Record my leetcode solution with javascript
 | 617  | Merge Two Binary Trees |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/617.%20Merge%20Two%20Binary%20Trees.js)|easy||
 | 671  | Second Minimum Node In a Binary Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.js)|easy||
 | 687  | Longest Univalue Path |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/687.%20Longest%20Univalue%20Path.js)|medium||
+| 821  | Shortest Distance to a Character |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/821.%20Shortest%20Distance%20to%20a%20Character.js)|easy||
 | 剑指 Offer 09  | 用两个栈实现队列 |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/%E5%89%91%E6%8C%87%20Offer%2009.%20%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.js)|easy||
 | 剑指 Offer 22  | 链表中倒数第k个节点 |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/%E5%89%91%E6%8C%87%20Offer%2022.%20%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.js)|easy||
 | 剑指 Offer 24  | 反转链表 |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/%E5%89%91%E6%8C%87%20Offer%2024.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.js)|easy||
