@@ -12,6 +12,7 @@ Record my leetcode solution with javascript
 | 32  | Longest Valid Parentheses |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/32.%20Longest%20Valid%20Parentheses.js)|hard||
 | 53  | Maximum Subarray |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/DP/53.%20Maximum%20Subarray.js)|easy||
 | 69  | Sqrt(x) |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Dichotomy/69.%20Sqrt(x).js)|easy||
+| 78  | Subsets |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/78.%20Subsets.js)|medium||
 | 88  | Merge Sorted Array |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/88.%20Merge%20Sorted%20Array.js)|easy||
 | 94  | Binary Tree Inorder Traversal |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/94.%20Binary%20Tree%20Inorder%20Traversal.js)|easy||
 | 100  | Same Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/100.%20Same%20Tree.js)|easy||
@@ -41,4 +42,5 @@ Record my leetcode solution with javascript
 | 剑指 Offer 22  | 链表中倒数第k个节点 |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/%E5%89%91%E6%8C%87%20Offer%2022.%20%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.js)|easy||
 | 剑指 Offer 24  | 反转链表 |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/%E5%89%91%E6%8C%87%20Offer%2024.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.js)|easy||
 | 剑指 Offer 25  | 合并两个排序的链表  LCOF |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/%E5%89%91%E6%8C%87%20Offer%2025.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8%20%20LCOF.js)|easy||
+| 剑指 Offer II 079 | 所有子集 |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/78.%20Subsets.js)|medium||
 
