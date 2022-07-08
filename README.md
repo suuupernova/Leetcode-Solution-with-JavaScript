@@ -12,6 +12,7 @@ Record my leetcode solution with javascript
 | 32  | Longest Valid Parentheses |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/32.%20Longest%20Valid%20Parentheses.js)|hard||
 | 53  | Maximum Subarray |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/DP/53.%20Maximum%20Subarray.js)|easy||
 | 69  | Sqrt(x) |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Dichotomy/69.%20Sqrt(x).js)|easy||
+| 75  | Sort Colors |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/75.%20Sort%20Colors.js)|medium||
 | 78  | Subsets |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/78.%20Subsets.js)|medium||
 | 88  | Merge Sorted Array |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/88.%20Merge%20Sorted%20Array.js)|easy||
 | 94  | Binary Tree Inorder Traversal |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/94.%20Binary%20Tree%20Inorder%20Traversal.js)|easy||
