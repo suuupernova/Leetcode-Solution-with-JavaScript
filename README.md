@@ -25,6 +25,7 @@ Record my leetcode solution with javascript
 | 121  | Best Time to Buy and Sell Stock |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)|easy||
 | 136  | Single Number |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Bitwise%20Operation/136.%20Single%20Number.js)|easy||
 | 141  | Linked List Cycle |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/141.%20Linked%20List%20Cycle.js )|easy||
+| 146  | LRU Cache |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/146.%20LRU%20Cache.js)|medium||
 | 155  | Min Stack |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/155.%20Min%20Stack.js)|easy||
 | 160  | Intersection of Two Linked Lists |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/160.%20Intersection%20of%20Two%20Linked%20Lists.js)|easy||
 | 199  | Binary Tree Right Side View |[JavaScript]( https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Queue/199.%20Binary%20Tree%20Right%20Side%20View.js)|medium||
