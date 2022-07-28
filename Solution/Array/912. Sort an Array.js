@@ -21,3 +21,26 @@ var sortArray = function(nums) {
     return sortArray(left).concat(pivot,sortArray(right));
 
 };
+
+    //bubble sort
+var sortArray = function(nums) {
+
+    if(nums.length<=1){
+        return nums;
+    }
+    let flag=1;
+    
+    let len=nums.length;
+    for(let i=0;i<len&&flag;i++){
+        flag=0;
+        for(let j=len-1;j>i;j--){
+            if(nums[j]<nums[j-1]){
+                [nums[j],nums[j-1]]=[nums[j-1],nums[j]];
+                flag=1;
+            }
+
+        }
+    }
+    return nums;
+
+};
