@@ -44,3 +44,34 @@ var sortArray = function(nums) {
     return nums;
 
 };
+
+
+ //selection sort
+var sortArray = function(nums) {
+   
+    for(let i = 0,len = nums.length;i<len;i++) {
+        for (let j = i+1;j<len;j++) {
+             // 将nums[i]与后面的元素比较，一直维持num[i]最小
+            if (nums[i] > nums[j]) {
+                [nums[i], nums[j]] = [nums[j], nums[i]]
+            }
+        }
+    }
+    return nums
+
+};
+
+//insert sort
+var sortArray = function(nums) {
+
+    for(let i=1;i<nums.length;i++){
+        const tmp=nums[i];
+        let j=i;
+        while(j>0&&tmp<nums[j-1]){
+            nums[j]=nums[j-1];
+            j--;
+        }
+        nums[j]=tmp;
+    }
+    return nums;
+};
