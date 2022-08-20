@@ -39,6 +39,7 @@ Record my leetcode solution with javascript
 | 543  | Diameter of Binary Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/543.%20Diameter%20of%20Binary%20Tree.js)|easy||
 | 572  | Subtree of Another Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/572.%20Subtree%20of%20Another%20Tree.js)|easy||
 | 617  | Merge Two Binary Trees |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/617.%20Merge%20Two%20Binary%20Trees.js)|easy||
+| 654 | Maximum Binary Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/654.%20Maximum%20Binary%20Tree.js)|medium||
 | 671  | Second Minimum Node In a Binary Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.js)|easy||
 | 687  | Longest Univalue Path |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/687.%20Longest%20Univalue%20Path.js)|medium||
 | 821  | Shortest Distance to a Character |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/821.%20Shortest%20Distance%20to%20a%20Character.js)|easy||
