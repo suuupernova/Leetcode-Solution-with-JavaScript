@@ -42,6 +42,7 @@ Record my leetcode solution with javascript
 | 654 | Maximum Binary Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/654.%20Maximum%20Binary%20Tree.js)|medium||
 | 671  | Second Minimum Node In a Binary Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.js)|easy||
 | 687  | Longest Univalue Path |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/687.%20Longest%20Univalue%20Path.js)|medium||
+| 739  | Daily Temperatures |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/739.%20Daily%20Temperatures.js)|medium||
 | 821  | Shortest Distance to a Character |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/821.%20Shortest%20Distance%20to%20a%20Character.js)|easy||
 | 826  | Most Profit Assigning Work |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/826.%20Most%20Profit%20Assigning%20Work.js)|medium||
 | 912  | Sort an Array |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/912.%20Sort%20an%20Array.js)|medium||
