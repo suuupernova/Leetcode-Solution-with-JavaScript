@@ -36,6 +36,7 @@ Record my leetcode solution with javascript
 | 316 | Remove Duplicate Letters |[JavaScript]( https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/String/316.%20Remove%20Duplicate%20Letters.js)|medium||
 | 349 | Intersection of Two Arrays |[JavaScript]( https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/349.%20Intersection%20of%20Two%20Arrays.js)|easy||
 | 404  | Sum of Left Leaves |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/404.%20Sum%20of%20Left%20Leaves.js)|easy||
+| 451  | Sort Characters By Frequency |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/451.%20Sort%20Characters%20By%20Frequency.js)|medium||
 | 509  | Fibonacci Number |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/DP/509.%20Fibonacci%20Number.js)|easy||
 | 538  | Convert BST to Greater Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/538.%20Convert%20BST%20to%20Greater%20Tree.js)|medium||
 | 543  | Diameter of Binary Tree |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/543.%20Diameter%20of%20Binary%20Tree.js)|easy||
