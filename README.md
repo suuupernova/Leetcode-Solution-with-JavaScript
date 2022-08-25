@@ -15,6 +15,7 @@ Record my leetcode solution with javascript
 | 36  | Valid Sudoku |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/36.%20Valid%20Sudoku.js)|medium||
 | 53  | Maximum Subarray |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/DP/53.%20Maximum%20Subarray.js)|easy||
 | 69  | Sqrt(x) |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Dichotomy/69.%20Sqrt(x).js)|easy||
+| 74  | Search a 2D Matrix |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/74.%20Search%20a%202D%20Matrix.js)|medium||
 | 75  | Sort Colors |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/75.%20Sort%20Colors.js)|medium||
 | 78  | Subsets |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/78.%20Subsets.js)|medium||
 | 88  | Merge Sorted Array |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/88.%20Merge%20Sorted%20Array.js)|easy||
