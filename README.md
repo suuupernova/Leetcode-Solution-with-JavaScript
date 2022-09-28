@@ -32,6 +32,7 @@ Record my leetcode solution with javascript
 | 146  | LRU Cache |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/146.%20LRU%20Cache.js)|medium||
 | 155  | Min Stack |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/155.%20Min%20Stack.js)|easy||
 | 160  | Intersection of Two Linked Lists |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/160.%20Intersection%20of%20Two%20Linked%20Lists.js)|easy||
+| 198  | House Robber |[JavaScript]( https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/DP/198.%20House%20Robber.js)|medium||
 | 199  | Binary Tree Right Side View |[JavaScript]( https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Queue/199.%20Binary%20Tree%20Right%20Side%20View.js)|medium||
 | 208  | Implement Trie (Prefix Tree) |[JavaScript]( https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Others/208.%20Implement%20Trie%20(Prefix%20Tree).js)|medium||
 | 232 | Implement Queue using Stacks |[JavaScript]( https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/232.%20Implement%20Queue%20using%20Stacks.js)|easy||
