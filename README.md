@@ -6,7 +6,7 @@ Record my leetcode solution with javascript
 | 2  | Add Two Numbers |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/2.%20Add%20Two%20Numbers.js)|easy||
 | 3  | Longest Substring Without Repeating Characters |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/3.%20Longest%20Substring%20Without%20Repeating%20Characters.js)|medium||
 | 5  | Longest Palindromic Substring |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/String/5.%20Longest%20Palindromic%20Substring.js)|medium||
-| 9  | Palindrome Number |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/String/5.%20Longest%20Palindromic%20Substring.js)|easy||
+| 9  | Palindrome Number |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Math/9.%20Palindrome%20Number.js)|easy||
 | 15  | 3Sum |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/15.%203Sum.js)|medium||
 | 18  | 4Sum |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/18.%204Sum.js)|medium||
 | 20  | Valid Parentheses |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/20.%20Valid%20Parentheses.js)|easy||
