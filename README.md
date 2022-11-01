@@ -14,6 +14,7 @@ Record my leetcode solution with javascript
 | 25  | Reverse Nodes in k-Group |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/25.%20Reverse%20Nodes%20in%20k-Group.js)|hard||
 | 32  | Longest Valid Parentheses |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/32.%20Longest%20Valid%20Parentheses.js)|hard||
 | 36  | Valid Sudoku |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/36.%20Valid%20Sudoku.js)|medium||
+| 49  | Group Anagrams |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/49.%20Group%20Anagrams.js)|medium||
 | 53  | Maximum Subarray |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/DP/53.%20Maximum%20Subarray.js)|easy||
 | 69  | Sqrt(x) |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Dichotomy/69.%20Sqrt(x).js)|easy||
 | 74  | Search a 2D Matrix |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/74.%20Search%20a%202D%20Matrix.js)|medium||
