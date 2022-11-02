@@ -30,6 +30,7 @@ Record my leetcode solution with javascript
 | 111  | Minimum Depth |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/111.%20Minimum%20Depth%20of%20Binary%20Tree.js)|easy||
 | 121  | Best Time to Buy and Sell Stock |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)|easy||
 | 123  | Best Time to Buy and Sell Stock III |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/DP/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.js)|hard||
+| 128  | Longest Consecutive Sequence |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/128.%20Longest%20Consecutive%20Sequence.js)|medium||
 | 136  | Single Number |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Bitwise%20Operation/136.%20Single%20Number.js)|easy||
 | 141  | Linked List Cycle |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/141.%20Linked%20List%20Cycle.js )|easy||
 | 146  | LRU Cache |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/146.%20LRU%20Cache.js)|medium||
