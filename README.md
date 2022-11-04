@@ -64,5 +64,6 @@ Record my leetcode solution with javascript
 | 剑指 Offer 22  | 链表中倒数第k个节点 |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/%E5%89%91%E6%8C%87%20Offer%2022.%20%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.js)|easy||
 | 剑指 Offer 24  | 反转链表 |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/%E5%89%91%E6%8C%87%20Offer%2024.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.js)|easy||
 | 剑指 Offer 25  | 合并两个排序的链表  LCOF |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/%E5%89%91%E6%8C%87%20Offer%2025.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8%20%20LCOF.js)|easy||
+| 剑指 Offer 50  | 第一个只出现一次的字符  LCOF |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/%E5%89%91%E6%8C%87%20Offer%2050.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6%20%20LCOF.js)|easy||
 | 剑指 Offer II 079 | 所有子集 |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/78.%20Subsets.js)|medium||
 
