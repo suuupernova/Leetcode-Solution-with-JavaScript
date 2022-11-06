@@ -2,24 +2,24 @@
 Record my leetcode solution with javascript
 |  #   | Title  |Solution|Difficulty|Explaination|
 |  ----  | ----  |----|----|----|
-| 1  | Two Sum |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/1.%20Two%20Sum.js)|easy||
-| 2  | Add Two Numbers |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/2.%20Add%20Two%20Numbers.js)|easy||
-| 3  | Longest Substring Without Repeating Characters |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/3.%20Longest%20Substring%20Without%20Repeating%20Characters.js)|medium||
-| 5  | Longest Palindromic Substring |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/String/5.%20Longest%20Palindromic%20Substring.js)|medium||
-| 9  | Palindrome Number |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Math/9.%20Palindrome%20Number.js)|easy||
-| 15  | 3Sum |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/15.%203Sum.js)|medium||
-| 18  | 4Sum |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/18.%204Sum.js)|medium||
-| 19  | Remove Nth Node From End of List |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.js)|medium||
-| 20  | Valid Parentheses |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/20.%20Valid%20Parentheses.js)|easy||
-| 21  | Merge Two Sorted Lists |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/21.%20Merge%20Two%20Sorted%20Lists.js)|easy||
+| 1  | Two Sum |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/1.%20Two%20Sum.js)|🟢easy||
+| 2  | Add Two Numbers |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/2.%20Add%20Two%20Numbers.js)|🟢easy||
+| 3  | Longest Substring Without Repeating Characters |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/3.%20Longest%20Substring%20Without%20Repeating%20Characters.js)|🟡medium||
+| 5  | Longest Palindromic Substring |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/String/5.%20Longest%20Palindromic%20Substring.js)|🟡medium||
+| 9  | Palindrome Number |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Math/9.%20Palindrome%20Number.js)|🟢easy||
+| 15  | 3Sum |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/15.%203Sum.js)|🟡medium||
+| 18  | 4Sum |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/18.%204Sum.js)|🟡medium||
+| 19  | Remove Nth Node From End of List |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.js)|🟡medium||
+| 20  | Valid Parentheses |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/20.%20Valid%20Parentheses.js)|🟢easy||
+| 21  | Merge Two Sorted Lists |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/21.%20Merge%20Two%20Sorted%20Lists.js)|🟢easy||
 | 23  | Merge k Sorted Lists |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/23.%20Merge%20k%20Sorted%20Lists.js)|🔴hard||
-| 25  | Reverse Nodes in k-Group |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/25.%20Reverse%20Nodes%20in%20k-Group.js)|hard||
-| 32  | Longest Valid Parentheses |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/32.%20Longest%20Valid%20Parentheses.js)|hard||
-| 36  | Valid Sudoku |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/36.%20Valid%20Sudoku.js)|medium||
-| 49  | Group Anagrams |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/49.%20Group%20Anagrams.js)|medium||
-| 53  | Maximum Subarray |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/DP/53.%20Maximum%20Subarray.js)|easy||
-| 69  | Sqrt(x) |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Dichotomy/69.%20Sqrt(x).js)|easy||
-| 74  | Search a 2D Matrix |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/74.%20Search%20a%202D%20Matrix.js)|medium||
+| 25  | Reverse Nodes in k-Group |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/25.%20Reverse%20Nodes%20in%20k-Group.js)|🔴hard||
+| 32  | Longest Valid Parentheses |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/32.%20Longest%20Valid%20Parentheses.js)|🔴hard||
+| 36  | Valid Sudoku |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/36.%20Valid%20Sudoku.js)|🟡medium||
+| 49  | Group Anagrams |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/49.%20Group%20Anagrams.js)|🟡medium||
+| 53  | Maximum Subarray |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/DP/53.%20Maximum%20Subarray.js)|🟢easy||
+| 69  | Sqrt(x) |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Dichotomy/69.%20Sqrt(x).js)|🟢easy||
+| 74  | Search a 2D Matrix |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/74.%20Search%20a%202D%20Matrix.js)|🟡medium||
 | 75  | Sort Colors |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/75.%20Sort%20Colors.js)|medium||
 | 78  | Subsets |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/78.%20Subsets.js)|medium||
 | 88  | Merge Sorted Array |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/88.%20Merge%20Sorted%20Array.js)|easy||
