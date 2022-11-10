@@ -43,6 +43,7 @@ Record my leetcode solution with javascript
 | 208  | Implement Trie (Prefix Tree) |[JavaScript]( https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Others/208.%20Implement%20Trie%20(Prefix%20Tree).js)|medium||
 | 213  | House Robber II |[JavaScript]( https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/DP/213.%20House%20Robber%20II.js)|medium||
 | 232 | Implement Queue using Stacks |[JavaScript]( https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/232.%20Implement%20Queue%20using%20Stacks.js)|easy||
+| 234 | Palindrome Linked List |[JavaScript]( https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/234.%20Palindrome%20Linked%20List.js)|🟢easy||
 | 316 | Remove Duplicate Letters |[JavaScript]( https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/String/316.%20Remove%20Duplicate%20Letters.js)|medium||
 | 349 | Intersection of Two Arrays |[JavaScript]( https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/349.%20Intersection%20of%20Two%20Arrays.js)|easy||
 | 404  | Sum of Left Leaves |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Tree/404.%20Sum%20of%20Left%20Leaves.js)|easy||
