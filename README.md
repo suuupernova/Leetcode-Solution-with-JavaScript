@@ -5,6 +5,7 @@ Record my leetcode solution with javascript
 | 1  | Two Sum |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/1.%20Two%20Sum.js)|🟢easy||
 | 2  | Add Two Numbers |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/2.%20Add%20Two%20Numbers.js)|🟢easy||
 | 3  | Longest Substring Without Repeating Characters |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/3.%20Longest%20Substring%20Without%20Repeating%20Characters.js)|🟡medium||
+| 4  | Median of Two Sorted Arrays |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Dichotomy/4.%20Median%20of%20Two%20Sorted%20Arrays.js)|🔴hard||
 | 5  | Longest Palindromic Substring |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/String/5.%20Longest%20Palindromic%20Substring.js)|🟡medium||
 | 9  | Palindrome Number |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Math/9.%20Palindrome%20Number.js)|🟢easy||
 | 15  | 3Sum |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Array/15.%203Sum.js)|🟡medium||
