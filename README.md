@@ -16,6 +16,7 @@ Record my leetcode solution with javascript
 | 23  | Merge k Sorted Lists |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/23.%20Merge%20k%20Sorted%20Lists.js)|🔴hard||
 | 25  | Reverse Nodes in k-Group |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Link%20List/25.%20Reverse%20Nodes%20in%20k-Group.js)|🔴hard||
 | 32  | Longest Valid Parentheses |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Stack/32.%20Longest%20Valid%20Parentheses.js)|🔴hard||
+| 33  | 搜索旋转排序数组 |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Dichotomy/33.%20Search%20in%20Rotated%20Sorted%20Array.js)|🟡medium||
 | 36  | Valid Sudoku |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/36.%20Valid%20Sudoku.js)|🟡medium||
 | 49  | Group Anagrams |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/Hash%20Table/49.%20Group%20Anagrams.js)|🟡medium||
 | 53  | Maximum Subarray |[JavaScript](https://github.com/suuupernova/Leetcode-Solution-with-JavaScript/blob/main/Solution/DP/53.%20Maximum%20Subarray.js)|🟢easy||
